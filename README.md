@@ -1,7 +1,7 @@
 # YTdownloadscript
 This script simplifies Youtube-dl
 
-To use this script you must Intsall youtube-dl
+To use this script you must Install youtube-dl
 
 # Windows :
 Open the project page at https://rg3.github.io/youtube-dl/, and click Download and install
@@ -20,7 +20,7 @@ Fist, Make the bash script executable
 ```
 chmod u+x ytscript.sh
 ```
-Run the script in any folder/directory where you want to download 
+Run the script in any folder/directory, where you want to download 
 
 ```
 ./ytscript.sh
