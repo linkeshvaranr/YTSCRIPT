@@ -22,4 +22,4 @@ fi
 	
 av_check
 
-#any queries @linkeshvaranr :)
+#any queries ping @linkeshvaranr :)
